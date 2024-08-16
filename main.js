@@ -26,7 +26,6 @@ const desplegar = (button) => {
     answer.classList.toggle("question-answer--active");
 };
 
-// ocultar
 
 // eventos mediante delegacion
 questionsContainer.addEventListener("click", (e) => {
